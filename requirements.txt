@@ -1,0 +1,10 @@
+django
+djangorestframework
+markdown
+django-filter
+channels
+channels_redis
+django-rest-auth
+django-allauth
+django-friendship
+firebase-admin
